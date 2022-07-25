@@ -179,7 +179,7 @@ a:-webkit-any-link {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    padding-bottom: 20px;
+    padding-bottom: 70px;
 }
 .footer h3{
     /* text-align: center; */
